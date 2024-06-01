@@ -37,6 +37,6 @@ I love solving problems on platforms like Codeforces and Leetcode.
 
 ## 📫 How to reach me
 - <a href="https://www.linkedin.com/in/nischithp2003"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"></a>
-- <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"><span><b>nischithp2003@gmail.com</b></span>
+- <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 Feel free to check out my repositories and get in touch with me!
