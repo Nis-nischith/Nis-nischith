@@ -1,9 +1,8 @@
 # Hi there, I'm <b>Nischith P</b> 👋
 
-## About Me
-<b>I am pursuing Computer Science major in Birla Institute of Technology & Science, Pilani Hyderabad campus. I have also taken up a minor in Data Science as a part of my interest.</b><br>
+<h4><b>I am pursuing Computer Science major in Birla Institute of Technology & Science, Pilani Hyderabad campus. I have also taken up a minor in Data Science as a part of my interest.</b><br>
 I'm a passionate Data Science enthusiast and developer skilled in various programming languages and tools. I love creating efficient and innovative solutions to complex problems.
-I love solving problems on platforms like Codeforces and Leetcode.
+I love solving problems on platforms like Codeforces and Leetcode.</h4>
 
 ## 🛠️ Tools and Technologies
 - **Programming Languages:**<br>
