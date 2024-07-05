@@ -40,4 +40,5 @@ I love solving problems on platforms like Codeforces and Leetcode.</h4>
 
 Feel free to check out my repositories and get in touch with me!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nis-nischith)](https://github.com/Nis-nischith/github-readme-stats)
+![Nischith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nis-nischith&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nis-nischith)
