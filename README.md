@@ -39,3 +39,5 @@ I love solving problems on platforms like Codeforces and Leetcode.</h4>
 - <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 Feel free to check out my repositories and get in touch with me!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nis-nischith)](https://github.com/Nis-nischith/github-readme-stats)
